@@ -6,3 +6,5 @@ git remote operation via http is success.
 git branch: Creating a new branch is quich and simple.
 git branch: another branch management.
 git bug branch
+git changed by buddy.
+git here is a conflic sentence to test remote branch
