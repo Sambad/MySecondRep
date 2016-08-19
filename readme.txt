@@ -8,3 +8,4 @@ git branch: another branch management.
 git bug branch
 git changed by buddy.
 git here is a conflic sentence to test remote branch
+i am Sambad.
